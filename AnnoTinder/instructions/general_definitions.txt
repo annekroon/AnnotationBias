@@ -1,0 +1,12 @@
+**Politieke standpunt** In welke mate reflecteert dit bericht een links- of rechts politiek standpunt?
+Dit verwijs naar in hoeverre de Tweet overeenkomt met linkse- of rechtse politieke ideologieën. 
+
+**Sentiment**: Is deze tweet negatief of positief van toon?
+Deze taak omvat het beoordelen van de toon van tweets als negatief, positief of neutraal op basis van de aanwezigheid van duidelijke en expliciete oordelen over situaties of gebeurtenissen.
+
+**Misinformatie**: Bevat deze tweet misinformatie?
+De aanwezigheid van misinformatie in tweets wordt bepaald aan de hand van verschillende criteria, zoals of de inhoud controleerbaar is, overeenkomt met wetenschappelijke feiten, de bron betrouwbaar is en de auteur geloofwaardigheid heeft. 
+
+**Toxiciteit**: Bevat deze tweet toxische taal? 
+De toon van tweets kan variëren van zeer vriendelijk en beleefd tot zeer toxisch, afhankelijk van hoe respectvol en positief ze zijn in de discussie.
+

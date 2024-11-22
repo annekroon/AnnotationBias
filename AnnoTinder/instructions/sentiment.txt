@@ -1,0 +1,6 @@
+# NEGATIEVE TOON
+
+Deze taak betreft het beoordelen van de toon van tweets in het algemeen. Voor elke tweet willen we vaststellen in hoeverre deze al dan niet negatief van toon is. 
+* Een tweet wordt als negatief beschouwd als er duidelijk en expliciet een **negatief** oordeel wordt gegeven over een situatie, persoon, object of gebeurtenis. 
+* Een tweet wordt als positief beschouwd als er duidelijk en expliciet een **positief** oordeel wordt gegeven over een situatie, persoon, object of gebeurtenis. 
+* Een tweet wordt als **neutraal** beschouwd als het alleen feitelijke informatie bevat zonder een duidelijk oordeel over de situatie of gebeurtenis.

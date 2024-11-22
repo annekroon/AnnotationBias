@@ -1,0 +1,79 @@
+# INSTRUCTIES BEOORDELEN TWEETS
+Hieronder volgen gedetaileerde instructies voor het beoordelen van tweets. 
+
+# RECHTS STANDPUNT
+
+Hier is een samenvatting van de politieke verschillen tussen **links (progressief)** en **rechts (conservatief)** op verschillende beleidsterreinen. Dit kan helpen om te bepalen of een standpunt een links of rechts beleidsstandpunt vertegenwoordigt:
+
+## ECONOMIE 
+
+* LINKS: Een pro-actieve overheid: meer regulering van de economie en arbeidsmarkt. Meer belastingen om meer sociale voorzieningen te financieren. Een meer progressief belastingstelsel: hogere inkomens worden belast tegen hogere tarieven.
+* RECHTS: Een passieve overheid: minder regulering van de economie en arbeidsmarkt. Minder belastingen ten koste van minder sociale voorzieningen. Een meer regressief belastingstelsel dat hogere inkomens niet tegen hogere tarieven belast.
+
+## BURGERRECHTEN EN VRIJHEDEN
+
+* LINKS: Het zou een topprioriteit van de overheid moeten zijn om elke vorm van maatschappelijke discriminatie (raciaal, geslacht, seksueel, etc.) te bestrijden. Voorstander van de-regulering van abortus. Voorstander van het homohuwelijk en vele andere eisen van de LGBTQ+ gemeenschap. Een meer collectieve opvatting van rechten/vrijheden.
+* RECHTS: Er zijn belangrijkere prioriteiten dan investeren van publiek geld om maatschappelijke discriminatie (raciaal, geslacht, seksueel, etc.) te bestrijden. Tegen abortus, en voor strengere regulering ervan. Tegen het homohuwelijk en elke andere eis van de LGBTQ+ gemeenschap. Een meer individuele opvatting van rechten/vrijheden.
+
+## GEZONDHEIDSZORG
+
+* LINKS: Voorstander van een sterk, goed gefinancierd, en universeel, publiek gezondheidssysteem. Gezondheidszorg zou voor iedereen gratis moeten zijn.
+* RECHTS: Zowel private als publieke organisaties moeten een belangrijke rol spelen in het aanpakken van de gezondheidsbehoeften van mensen. Mensen moeten (mede)verantwoordelijk zijn voor hun zorgkosten. Publieke gezondheidsinstellingen moeten privé worden beheerd, om de efficiëntie te verhogen.
+
+## LANDBOUW
+
+* LINKS: Om stikstofemissies te verminderen, moet de veestapel aanzienlijk worden verkleind. De overheid moet boeren aanmoedigen (en economisch ondersteunen) om over te schakelen naar duurzame landbouw.
+* RECHTS: De overheid moet nutteloze CO2- en stikstofmaatregelen voor boeren en vissers stopzetten. Boeren moeten op dezelfde manier kunnen blijven boeren zoals ze tot nu toe hebben gedaan.
+
+
+## ARBEID
+
+* LINKS: Het minimumloon moet hoger zijn om maximale bescherming en compensatie te bieden voor de meest kwetsbare werknemers. Vaste contracten moeten de norm zijn. Werknemers moeten zwaar worden gecompenseerd als ze worden ontslagen.
+* RECHTS: Het minimumloon moet laag blijven om banencreatie te stimuleren. Flexibele en niet-permanente contracten stimuleren banencreatie. Bedrijven mogen niet de prijs betalen voor het moeten ontslaan van mensen.
+
+## ONDERWIJS
+
+* LINKS: Het onderwijssysteem moet uitsluitend gebaseerd zijn op goed gefinancierde openbare scholen. Onderwijs zou voor iedereen gratis moeten zijn. Het onderwijssysteem moet eigendom zijn van en beheerd worden door de overheid.
+* RECHTS: Zowel private als openbare scholen moeten een belangrijke rol spelen in het onderwijs. De financiering voor openbare scholen moet beperkt worden zodat belastingen tot een minimum kunnen worden beperkt. De overheid moet het floreren van private scholen aanmoedigen om de concurrentie en kwaliteit te verhogen.
+
+## MILIEU & ENERGIE
+
+* LINKS: Klimaatverandering moet een van de belangrijkste prioriteiten van de overheid zijn. Alle energie die in het land wordt gebruikt, moet afkomstig zijn van hernieuwbare bronnen. De overheid moet belastingen op niet-hernieuwbare energie verhogen om het verbruik ervan te ontmoedigen.
+* RECHTS: Meer wetenschappelijk bewijs is nodig om klimaatverandering tot een prioriteit te maken. Niet-hernieuwbare energiebronnen moeten nog steeds worden gebruikt, vooral als er niet genoeg hernieuwbare energie kan worden geproduceerd. De overheid moet stoppen met het belasten van het gebruik van niet-hernieuwbare energie tegen hogere tarieven.
+
+## IMMIGRATIE
+
+* LINKS: Het land moet moeite doen om vluchtelingen uit conflictgebieden te helpen en verwelkomen. De immigrantenpopulatie verrijkt onze cultuur en waarden. Immigranten maken veel waardevolle bijdragen aan de arbeidsmarkt en economie van het land.
+* RECHTS: Het land heeft geen verantwoordelijkheid jegens, en moet geen buitenlandse vluchtelingen verwelkomen. De immigrantenpopulatie vernietigt onze cultuur en waarden. Immigranten maken de economie slechter en nemen banen weg van de lokale/nationale bevolking.
+
+## TRANSPORT
+
+* LINKS: De overheid moet belastingen op vluchten verhogen om het aantal vluchten en CO2-uitstoot te verminderen. De overheid moet nieuwe internationale treinverbindingen aanmoedigen en economisch ondersteunen om de CO2-uitstoot te verminderen.
+* RECHTS: Luchthavens zijn essentieel voor een internationaal sterke economie. Mensen moeten vrij zijn om te kiezen hoe ze willen reizen, en de overheid moet vermijden om de transportmarkt te verstoren.
+
+# NEGATIEVE TOON
+
+Deze taak betreft het beoordelen van de toon van tweets in het algemeen. Voor elke tweet willen we vaststellen in hoeverre deze al dan niet negatief van toon is. 
+* Een tweet wordt als negatief beschouwd als er duidelijk en expliciet een **negatief** oordeel wordt gegeven over een situatie, persoon, object of gebeurtenis. 
+* Een tweet wordt als positief beschouwd als er duidelijk en expliciet een **positief** oordeel wordt gegeven over een situatie, persoon, object of gebeurtenis. 
+* Een tweet wordt als **neutraal** beschouwd als het alleen feitelijke informatie bevat zonder een duidelijk oordeel over de situatie of gebeurtenis.
+
+# TOXISCHE TAAL
+
+Een tweet is toxisch as het tekst bevat die onbeleefd, respectloos, of onredelijk is en die het waarschijnlijk maakt dat mensen zich niet meer in de discussie willen mengen. Toxisch taalgebruik omvat onder meer scheldwoorden, beledigende taal, het aanvallen van een specifieke groep op basis van ras of geslacht, sarcasme, roddelen of negatief praten over iemand achter hun rug, of het delen van gevoelige inhoud.  
+
+* Helemaal niet waar: Een tweet die bijzonder beleefd, vriendelijk en respectvol is, en anderen aanmoedigt om hun perspectief te delen en deel te nemen aan de discussie.  
+* Gedeeltelijk niet waar: Een tweet die beleefd en respectvol is, en bijdraagt aan een positieve discussieomgeving, maar mogelijk nog ruimte laat voor verbetering.  
+* Neutraal: Een neutrale tweet die geen duidelijke beleefdheid of onbeleefdheid uitdrukt, en de discussie niet beïnvloedt in termen van positiviteit of negativiteit.  
+* Gedeeltelijk waar: Een tweet die neigt naar onbeleefdheid, respectloosheid of negativiteit, maar mogelijk niet extreem schadelijk is voor de discussieomgeving.  
+* Helemaal waar: Een tweet die onbeleefd, respectloos, negatief of anderszins schadelijk is voor de discussieomgeving.  
+
+# MISINFORMATIE
+
+Misinformatie verwijst naar de mate waarin een tweet informatie bevat die feitelijk onjuist is en/of niet gebaseerd is op relevante expertise en empirisch bewijs.
+
+* Helemaal niet waar - Er zijn sterke aanwijzingen dat de inhoud van de tweet geen misinformatie bevat. De inhoud kan worden geverifieerd aan de hand van controleerbare feiten of bronnen, is in overeenstemming met wetenschappelijke consensus en komt van betrouwbare bronnen met geloofwaardige reputaties.
+* Gedeeltelijk niet waar - Er zijn enkele aanwijzingen dat de inhoud van de tweet mogelijk misinformatie bevat, maar het grootste deel van de informatie lijkt nauwkeurig te zijn.
+* Neutraal - Kan niet met zekerheid zeggen of de inhoud misinformatie bevat vanwege gebrek aan informatie of context.
+* Gedeeltelijk waar - Er zijn sterke aanwijzingen dat de inhoud van de tweet gedeeltelijk misinformatie bevat. De informatie kan niet worden geverifieerd aan de hand van controleerbare feiten of bronnen, is niet in overeenstemming met gevestigde feiten of wetenschappelijke consensus, en/of komt van onbetrouwbare bronnen.
+* Helemaal waar - Er zijn sterke aanwijzingen dat de inhoud van de tweet volledig misinformatie bevat. De informatie kan niet worden geverifieerd aan de hand van controleerbare feiten of bronnen, is niet in overeenstemming met gevestigde feiten of wetenschappelijke consensus, en/of komt van onbetrouwbare bronnen."

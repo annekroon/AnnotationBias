@@ -1,0 +1,9 @@
+# TOXISCHE TAAL
+
+Een tweet is toxisch as het tekst bevat die onbeleefd, respectloos, of onredelijk is en die het waarschijnlijk maakt dat mensen zich niet meer in de discussie willen mengen. Toxisch taalgebruik omvat onder meer scheldwoorden, beledigende taal, het aanvallen van een specifieke groep op basis van ras of geslacht, sarcasme, roddelen of negatief praten over iemand achter hun rug, of het delen van gevoelige inhoud.  
+
+* Helemaal niet waar: Een tweet die bijzonder beleefd, vriendelijk en respectvol is, en anderen aanmoedigt om hun perspectief te delen en deel te nemen aan de discussie.  
+* Gedeeltelijk niet waar: Een tweet die beleefd en respectvol is, en bijdraagt aan een positieve discussieomgeving, maar mogelijk nog ruimte laat voor verbetering.  
+* Neutraal: Een neutrale tweet die geen duidelijke beleefdheid of onbeleefdheid uitdrukt, en de discussie niet beïnvloedt in termen van positiviteit of negativiteit.  
+* Gedeeltelijk waar: Een tweet die neigt naar onbeleefdheid, respectloosheid of negativiteit, maar mogelijk niet extreem schadelijk is voor de discussieomgeving.  
+* Helemaal waar: Een tweet die onbeleefd, respectloos, negatief of anderszins schadelijk is voor de discussieomgeving.  

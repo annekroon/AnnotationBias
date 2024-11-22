@@ -1,0 +1,9 @@
+# MISINFORMATIE
+
+Misinformatie verwijst naar de mate waarin een tweet informatie bevat die feitelijk onjuist is en/of niet gebaseerd is op relevante expertise en empirisch bewijs.
+
+* Helemaal niet waar - Er zijn sterke aanwijzingen dat de inhoud van de tweet geen misinformatie bevat. De inhoud kan worden geverifieerd aan de hand van controleerbare feiten of bronnen, is in overeenstemming met wetenschappelijke consensus en komt van betrouwbare bronnen met geloofwaardige reputaties.
+* Gedeeltelijk niet waar - Er zijn enkele aanwijzingen dat de inhoud van de tweet mogelijk misinformatie bevat, maar het grootste deel van de informatie lijkt nauwkeurig te zijn.
+* Neutraal - Kan niet met zekerheid zeggen of de inhoud misinformatie bevat vanwege gebrek aan informatie of context.
+* Gedeeltelijk waar - Er zijn sterke aanwijzingen dat de inhoud van de tweet gedeeltelijk misinformatie bevat. De informatie kan niet worden geverifieerd aan de hand van controleerbare feiten of bronnen, is niet in overeenstemming met gevestigde feiten of wetenschappelijke consensus, en/of komt van onbetrouwbare bronnen.
+* Helemaal waar - Er zijn sterke aanwijzingen dat de inhoud van de tweet volledig misinformatie bevat. De informatie kan niet worden geverifieerd aan de hand van controleerbare feiten of bronnen, is niet in overeenstemming met gevestigde feiten of wetenschappelijke consensus, en/of komt van onbetrouwbare bronnen."
