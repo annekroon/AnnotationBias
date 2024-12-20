@@ -29,19 +29,22 @@ jobsets[[40]]
 
 ## Create debriefing for redirecting after job is finished
 debrief_msg = "Klik on de onderstaande link om het onderzoek af te ronden."
-debrief_condition1 = debrief(message=debrief_msg, link = "[completion link]", "Klik hier!")
+debrief_condition1 = debrief(message=debrief_msg, link = "https://dkr1.ssisurveys.com/projects/end?rst=1&psid={psid}", "Klik hier!")
 ## ... 6 keer link terug naar qualtrics, of 1 keer als er een enkele return link is naar het panel bureau
 
 
 ## Upload job
 backend_connect('https://annotinder.up.railway.app', 'a.c.kroon@uva.nl')
 
-upload_job("AnnoBias test 2, set 1", units=units_condition_1_2_3, codebook=codebook, pre=intro_units, jobsets=jobsets, debrief=debrief_condition1)
-upload_job("AnnoBias test 2, set 2", units=units_condition_1_2_3, codebook=codebook, pre=intro_units, jobsets=jobsets, debrief=debrief_condition1)
-upload_job("AnnoBias test 2, set 3", units=units_condition_1_2_3, codebook=codebook, pre=intro_units, jobsets=jobsets, debrief=debrief_condition1)
-upload_job("AnnoBias test 2, set 4", units=units_condition_4_5_6, codebook=codebook, pre=intro_units, jobsets=jobsets, debrief=debrief_condition1)
-upload_job("AnnoBias test 2, set 5", units=units_condition_4_5_6, codebook=codebook, pre=intro_units, jobsets=jobsets, debrief=debrief_condition1)
-upload_job("AnnoBias test 2, set 6", units=units_condition_4_5_6, codebook=codebook, pre=intro_units, jobsets=jobsets, debrief=debrief_condition1)
+upload_job("AnnoBias link test", units=intro_unit_1, codebook=codebook, debrief=debrief_condition1)
+## "https://annotinder.com/?host=https://annotinder.up.railway.app&jobtoken=eyJhbGciOiJIUzI1NiJ9.eyJqb2IiOiA4NiwgImV4cGlyZXMiOiBudWxsfQ.CYIOOzqpUpI3JTiL3WV84goxdP0B8ELjoW5v1Eqse5o&user_id=123&psid=777"
+
+upload_job("AnnoBias job final, set 1", units=units_condition_1_2_3, codebook=codebook, pre=intro_units, jobsets=jobsets, debrief=debrief_condition1)
+upload_job("AnnoBias job final, set 2", units=units_condition_1_2_3, codebook=codebook, pre=intro_units, jobsets=jobsets, debrief=debrief_condition1)
+upload_job("AnnoBias job final, set 3", units=units_condition_1_2_3, codebook=codebook, pre=intro_units, jobsets=jobsets, debrief=debrief_condition1)
+upload_job("AnnoBias job final, set 4", units=units_condition_4_5_6, codebook=codebook, pre=intro_units, jobsets=jobsets, debrief=debrief_condition1)
+upload_job("AnnoBias job final, set 5", units=units_condition_4_5_6, codebook=codebook, pre=intro_units, jobsets=jobsets, debrief=debrief_condition1)
+upload_job("AnnoBias job final, set 6", units=units_condition_4_5_6, codebook=codebook, pre=intro_units, jobsets=jobsets, debrief=debrief_condition1)
 
 
 create_job('voorbeeld', units=units_condition_1_2_3, codebook=codebook) |>
