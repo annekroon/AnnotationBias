@@ -49,7 +49,7 @@ in `config.py`.
 
 ## Computational Environment
 
-The analyses were run in Python.  
+The analyses were run in Python 3.10.12
 Package versions are documented in `requirements.txt` / `environment.yml`
 
 ---
@@ -75,3 +75,6 @@ Paths, API keys, and WebDAV credentials must be provided by the user.
 4. All tables and figures used in the paper are written to `output/`.
 
 For details on inputs, outputs, and analytical logic, see `docs/pipeline.md`.
+
+
+
