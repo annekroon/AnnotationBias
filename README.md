@@ -24,6 +24,13 @@ Each step writes intermediate datasets to disk that are reused downstream.
 
 ---
 
+## `AnnoTinder/`
+
+The `AnnoTinder` folder contains all scripts and materials used to **design and run the crowd-annotation task** via the AnnoTinder platform. It defines the annotation codebook, training and onboarding units, annotation units derived from tweet data, and the textual instructions shown to annotators. The folder is used to construct and upload annotation jobs and does not contain analytical code or results.  
+The annotation infrastructure relies on the AnnoTinder R API: https://github.com/ccs-amsterdam/annotinder-r
+
+---
+
 ## Repository and Data Structure
 
 This repository contains code and documentation only.
