@@ -1,20 +1,77 @@
-# AnnotationBias
+# Annotation Bias 
 
-Understanding and Overcoming Implicit Annotation Bias in Crowd-sourced Datasets
+This repository contains a reproducible data pipeline for collecting, annotating,
+and analyzing X/Twitter posts by Dutch Members of Parliament, combined with crowd-annotation data. The code supports the analyses reported in:
 
-`00_get-Xaccounts-MPs.ipynb`
-This script scrapes data about members of the Dutch **Tweede Kamer** (House of Representatives) from 2012–2024, combines it into a dataset, and extracts their unique Twitter usernames.
+*The Politics of Annotation: How Ideology, Implicit Bias, and Task Design Shape
+Crowd Judgments of Political Tweets*
 
-## Outputs
+---
 
-- `data/X_data/tweedekamerleden.csv`: Full dataset of Tweede Kamer members (2012–2024).
-- `data/X_data/MPs_twitter_usernames.txt`: List of unique Twitter usernames.
+## Pipeline Overview
 
-`01_get_twitter_data.ipynb`
-This script gets the tweets of the members of parliament, based on the `data/X_data/MPs_twitter_usernames.txt` file. For this, Twi-XL is used. 
+The notebooks must be run sequentially:
 
-## Outputs
+00_get-Xaccounts-MPs.ipynb  
+→ 01_get_twitter_data.ipynb  
+→ 02_prepare_data_for_analysis.ipynb  
+→ 03_attrition_check.ipynb  
+→ 04_sample_descriptives.ipynb  
+→ 05_irr_reliability.ipynb  
+→ 06_hypotheses_testing.ipynb  
 
--   `data/X_data/full_twitter_data.csv`
--   `data/X_data/immigratie_tweets_non_stratefied.csv`
--   `data/X_data/final_stratified_immigration.csv`
+Each step writes intermediate datasets to disk that are reused downstream.
+
+---
+
+## Repository and Data Structure
+
+This repository contains code and documentation only.
+All large data files and analytical outputs are stored on the
+UvA Research Drive and accessed programmatically via WebDAV.
+
+The pipeline assumes the following directory structure on the
+Research Drive (not tracked in this repository):
+
+- `data/`
+  - `X_data/` – tweet-level datasets
+  - `AnnoTinder_data_exports/` – annotation exports
+  - `Qualtrics_data_exports/` – survey exports
+- `output/`
+  - `tables/` – LaTeX and CSV tables
+  - `figures/` – figures for the appendix
+  - `derived/` – derived parquet datasets
+
+Paths to the Research Drive and WebDAV credentials are defined
+in `config.py`.
+
+---
+
+## Computational Environment
+
+The analyses were run in Python.  
+Package versions are documented in `requirements.txt` / `environment.yml`
+
+---
+
+## Configuration and Credentials
+
+External services (e.g., X/Twitter via TWi-XL API, WebDAV Research Drive access)
+require credentials that are **not tracked** in this repository.
+
+All secrets are expected to be defined in:
+- `config.py` (not committed)
+
+Paths, API keys, and WebDAV credentials must be provided by the user.
+
+
+---
+
+## How to Reproduce
+
+1. Install the required Python environment.
+2. Populate `config.py` with valid paths and credentials.
+3. Run notebooks sequentially from `00_` to `06_`.
+4. All tables and figures used in the paper are written to `output/`.
+
+For details on inputs, outputs, and analytical logic, see `docs/pipeline.md`.
